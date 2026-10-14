@@ -12,7 +12,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
 <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Podcast-To-Video-Repurposing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Podcast-To-Video-Repurposing?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Podcast-To-Video-Repurposing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Podcast-To-Video-Repurposing?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Podcast-To-Video-Repurposing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Podcast-To-Video-Repurposing?style=flat-square&logo=github&color=teal" alt="GitHub Forks"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Podcast-To-Video-Repurposing/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Podcast-To-Video-Repurposing/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"/></a>
@@ -86,69 +86,69 @@ The table below compiles category-leading SaaS video repurposing platforms, rank
 
 For creators and developers who value **data privacy**, **unlimited local processing**, and **zero subscription fees**, these open-source tools run on your local workstation or private cloud GPU. 
 
-The list is sorted in **descending order by GitHub star count**. Each repository includes a live social star badge linking directly to that project's stargazers page:
+The list is sorted in **descending order by GitHub Stars_Count**. Each repository includes a live social Stars_Badge linking directly to that project's stargazers page:
 
-1. **[auto-editor](https://github.com/WyattBlue/auto-editor)** [![GitHub stars](https://img.shields.io/github/stars/WyattBlue/auto-editor?style=social&color=white)](https://github.com/WyattBlue/auto-editor/stargazers)  
+1. **[auto-editor](https://github.com/WyattBlue/auto-editor)** [![GitHub_Stars](https://img.shields.io/github/stars/WyattBlue/auto-editor?style=social&color=white)](https://github.com/WyattBlue/auto-editor/stargazers)  
    *Effort-free automated video & audio editing.* Command-line tool that analyzes audio volume and motion to automatically cut out awkward silences, accelerate dead air, and produce preliminary rough cuts for podcasts. Exports project timelines to Adobe Premiere Pro, Final Cut Pro, and DaVinci Resolve.
 
-2. **[AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator)** [![GitHub stars](https://img.shields.io/github/stars/Anil-matcha/AI-Youtube-Shorts-Generator?style=social&color=white)](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator/stargazers)  
+2. **[AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator)** [![GitHub_Stars](https://img.shields.io/github/stars/Anil-matcha/AI-Youtube-Shorts-Generator?style=social&color=white)](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator/stargazers)  
    *Open-source alternative to Opus Clip, Vidyo.ai, Klap & Submagic.* Automatically transforms long-form YouTube videos and podcasts into viral 9:16 Shorts using LLM highlight detection, Whisper speech transcription, and automated vertical reframing — completely free with no watermarks or per-clip credit caps.
 
-3. **[auto-subtitle](https://github.com/m1guelpf/auto-subtitle)** [![GitHub stars](https://img.shields.io/github/stars/m1guelpf/auto-subtitle?style=social&color=white)](https://github.com/m1guelpf/auto-subtitle/stargazers)  
+3. **[auto-subtitle](https://github.com/m1guelpf/auto-subtitle)** [![GitHub_Stars](https://img.shields.io/github/stars/m1guelpf/auto-subtitle?style=social&color=white)](https://github.com/m1guelpf/auto-subtitle/stargazers)  
    *Automated subtitle generator and overlay engine.* CLI utility that leverages OpenAI's Whisper model to transcribe video audio and burns perfectly synchronized subtitles directly onto video files using FFmpeg with customizable styling.
 
-4. **[audiogram](https://github.com/nypublicradio/audiogram)** [![GitHub stars](https://img.shields.io/github/stars/nypublicradio/audiogram?style=social&color=white)](https://github.com/nypublicradio/audiogram/stargazers)  
+4. **[audiogram](https://github.com/nypublicradio/audiogram)** [![GitHub_Stars](https://img.shields.io/github/stars/nypublicradio/audiogram?style=social&color=white)](https://github.com/nypublicradio/audiogram/stargazers)  
    *Audio-to-video waveform generator by New York Public Radio.* Classic open-source tool for turning audio podcast snippets into shareable videos with dynamic waveform animations, background imagery, and synchronized captions for social media sharing.
 
-5. **[mulmocast-cli](https://github.com/receptron/mulmocast-cli)** [![GitHub stars](https://img.shields.io/github/stars/receptron/mulmocast-cli?style=social&color=white)](https://github.com/receptron/mulmocast-cli/stargazers)  
+5. **[mulmocast-cli](https://github.com/receptron/mulmocast-cli)** [![GitHub_Stars](https://img.shields.io/github/stars/receptron/mulmocast-cli?style=social&color=white)](https://github.com/receptron/mulmocast-cli/stargazers)  
    *AI-powered podcast & video generator CLI.* Automates the assembly of multi-modal podcast presentations, synchronizing spoken commentary, visual slides, and video layouts directly from script prompts and audio inputs.
 
-6. **[template-audiogram](https://github.com/remotion-dev/template-audiogram)** [![GitHub stars](https://img.shields.io/github/stars/remotion-dev/template-audiogram?style=social&color=white)](https://github.com/remotion-dev/template-audiogram/stargazers)  
+6. **[template-audiogram](https://github.com/remotion-dev/template-audiogram)** [![GitHub_Stars](https://img.shields.io/github/stars/remotion-dev/template-audiogram?style=social&color=white)](https://github.com/remotion-dev/template-audiogram/stargazers)  
    *Remotion podcast clip template.* Official React-based template for generating high-resolution, programmatic podcast video clips with reactive audio waveforms, burned-in subtitles, and customizable aspect ratios rendered via Remotion.
 
-7. **[LeGen](https://github.com/matheusbach/legen)** [![GitHub stars](https://img.shields.io/github/stars/matheusbach/legen?style=social&color=white)](https://github.com/matheusbach/legen/stargazers)  
+7. **[LeGen](https://github.com/matheusbach/legen)** [![GitHub_Stars](https://img.shields.io/github/stars/matheusbach/legen?style=social&color=white)](https://github.com/matheusbach/legen/stargazers)  
    *Automated local subtitle studio and translation pipeline.* Uses Whisper and WhisperX for word-level timestamp generation, translates subtitles across dozens of languages, embeds subtitle tracks into MP4 containers, or burns them permanently into videos with GPU acceleration.
 
-8. **[ClippedAI](https://github.com/Shaarav4795/ClippedAI)** [![GitHub stars](https://img.shields.io/github/stars/Shaarav4795/ClippedAI?style=social&color=white)](https://github.com/Shaarav4795/ClippedAI/stargazers)  
+8. **[ClippedAI](https://github.com/Shaarav4795/ClippedAI)** [![GitHub_Stars](https://img.shields.io/github/stars/Shaarav4795/ClippedAI?style=social&color=white)](https://github.com/Shaarav4795/ClippedAI/stargazers)  
    *Open-source YouTube Shorts generator and OpusClip alternative.* 100% free and unlimited local video clipper that extracts viral segments from long videos, reframes content, and burns synchronized captions.
 
-9. **[whisply](https://github.com/tsmdt/whisply)** [![GitHub stars](https://img.shields.io/github/stars/tsmdt/whisply?style=social&color=white)](https://github.com/tsmdt/whisply/stargazers)  
+9. **[whisply](https://github.com/tsmdt/whisply)** [![GitHub_Stars](https://img.shields.io/github/stars/tsmdt/whisply?style=social&color=white)](https://github.com/tsmdt/whisply/stargazers)  
    *Cross-platform batch transcription, translation, and speaker annotation.* Highly optimized desktop CLI and GUI that harnesses OpenAI Whisper on CPU, Nvidia CUDA, and Apple Silicon MLX. Generates JSON, SRT, VTT, and speaker-labeled RTTM files completely offline.
 
-10. **[opensource-clipping](https://github.com/NaufalRizqullah/opensource-clipping)** [![GitHub stars](https://img.shields.io/github/stars/NaufalRizqullah/opensource-clipping?style=social&color=white)](https://github.com/NaufalRizqullah/opensource-clipping/stargazers)  
+10. **[opensource-clipping](https://github.com/NaufalRizqullah/opensource-clipping)** [![GitHub_Stars](https://img.shields.io/github/stars/NaufalRizqullah/opensource-clipping?style=social&color=white)](https://github.com/NaufalRizqullah/opensource-clipping/stargazers)  
     *Ultimate AI Auto-Clipper.* Full-stack pipeline for converting long-form podcast recordings into viral shorts. Includes smart speaker face tracking, kinetic karaoke subtitles, contextual B-roll video overlay, and automated multi-platform uploaders powered by Whisper, MediaPipe, and Gemini.
 
-11. **[n8n-youtube-to-shorts-workflow](https://github.com/mismai-li/n8n-youtube-to-shorts-workflow)** [![GitHub stars](https://img.shields.io/github/stars/mismai-li/n8n-youtube-to-shorts-workflow?style=social&color=white)](https://github.com/mismai-li/n8n-youtube-to-shorts-workflow/stargazers)  
+11. **[n8n-youtube-to-shorts-workflow](https://github.com/mismai-li/n8n-youtube-to-shorts-workflow)** [![GitHub_Stars](https://img.shields.io/github/stars/mismai-li/n8n-youtube-to-shorts-workflow?style=social&color=white)](https://github.com/mismai-li/n8n-youtube-to-shorts-workflow/stargazers)  
     *No-code automated video repurposing workflow.* n8n automation template that downloads long YouTube videos via yt-dlp, extracts viral hooks using LLM analysis, converts them into vertical 9:16 Shorts, and schedules automated posts.
 
-12. **[podcast-shorts-factory](https://github.com/krakonjac300-pixel/podcast-shorts-factory)** [![GitHub stars](https://img.shields.io/github/stars/krakonjac300-pixel/podcast-shorts-factory?style=social&color=white)](https://github.com/krakonjac300-pixel/podcast-shorts-factory/stargazers)  
+12. **[podcast-shorts-factory](https://github.com/krakonjac300-pixel/podcast-shorts-factory)** [![GitHub_Stars](https://img.shields.io/github/stars/krakonjac300-pixel/podcast-shorts-factory?style=social&color=white)](https://github.com/krakonjac300-pixel/podcast-shorts-factory/stargazers)  
     *Multi-agent podcast-to-shorts automation system.* Employs cooperating AI agents to ingest long podcast episodes, evaluate virality metrics, re-center speakers, and render batches of ready-to-publish vertical clips offline.
 
-13. **[clips-studio](https://github.com/ColinGPT9/clips-studio)** [![GitHub stars](https://img.shields.io/github/stars/ColinGPT9/clips-studio?style=social&color=white)](https://github.com/ColinGPT9/clips-studio/stargazers)  
+13. **[clips-studio](https://github.com/ColinGPT9/clips-studio)** [![GitHub_Stars](https://img.shields.io/github/stars/ColinGPT9/clips-studio?style=social&color=white)](https://github.com/ColinGPT9/clips-studio/stargazers)  
     *Clips Kitty: Local AI video clipper.* Self-hosted alternative to Opus Clip and Klap that ingests Twitch, YouTube, and podcast VODs, identifies highlights with local Ollama LLMs and Whisper, crops to 9:16, and auto-posts 24/7.
 
-14. **[podcli](https://github.com/nmbrthirteen/podcli)** [![GitHub stars](https://img.shields.io/github/stars/nmbrthirteen/podcli?style=social&color=white)](https://github.com/nmbrthirteen/podcli/stargazers)  
+14. **[podcli](https://github.com/nmbrthirteen/podcli)** [![GitHub_Stars](https://img.shields.io/github/stars/nmbrthirteen/podcli?style=social&color=white)](https://github.com/nmbrthirteen/podcli/stargazers)  
     *Open-source MCP server and CLI for podcast clipping.* Transcribes audio using Whisper with word-level timestamps and Pyannote diarization, finds viral moments using Claude or Codex against show show notes, crops to 1080×1920 using YuNet face tracking, and burns styled captions (Hormozi, karaoke, subtle). Includes 17 Model Context Protocol (MCP) tools for Claude Code and Cursor integration.
 
-15. **[murmurai](https://github.com/namastexlabs/murmurai)** [![GitHub stars](https://img.shields.io/github/stars/namastexlabs/murmurai?style=social&color=white)](https://github.com/namastexlabs/murmurai/stargazers)  
+15. **[murmurai](https://github.com/namastexlabs/murmurai)** [![GitHub_Stars](https://img.shields.io/github/stars/namastexlabs/murmurai?style=social&color=white)](https://github.com/namastexlabs/murmurai/stargazers)  
     *Self-hosted drop-in transcription API replacement.* GPU-powered local speech-to-text service with speaker diarization, word-level alignment, and SRT/VTT/JSON export with zero telemetry.
 
-16. **[cutawan](https://github.com/JeremySNR/cutawan)** [![GitHub stars](https://img.shields.io/github/stars/JeremySNR/cutawan?style=social&color=white)](https://github.com/JeremySNR/cutawan/stargazers)  
+16. **[cutawan](https://github.com/JeremySNR/cutawan)** [![GitHub_Stars](https://img.shields.io/github/stars/JeremySNR/cutawan?style=social&color=white)](https://github.com/JeremySNR/cutawan/stargazers)  
     *Desktop video clipper for podcasts and long recordings.* MIT-licensed desktop app featuring AI clip discovery via ChatGPT/Codex or OpenAI API keys, local Whisper transcription, speaker-aware reframing with ONNX Runtime, and custom caption burn-in without minute caps.
 
-17. **[Auto-clipper](https://github.com/bendawg2010/Auto-clipper)** [![GitHub stars](https://img.shields.io/github/stars/bendawg2010/Auto-clipper?style=social&color=white)](https://github.com/bendawg2010/Auto-clipper/stargazers)  
+17. **[Auto-clipper](https://github.com/bendawg2010/Auto-clipper)** [![GitHub_Stars](https://img.shields.io/github/stars/bendawg2010/Auto-clipper?style=social&color=white)](https://github.com/bendawg2010/Auto-clipper/stargazers)  
     *Automated gaming & podcast highlight detection.* Identifies highlights in video VODs using YOLO object detection, pixel motion analysis, and Whisper voice-trigger clipping ("clip that"), with customizable 9:16 vertical exports.
 
-18. **[vid2cc-AI](https://github.com/0xdilshan/vid2cc-AI)** [![GitHub stars](https://img.shields.io/github/stars/0xdilshan/vid2cc-AI?style=social&color=white)](https://github.com/0xdilshan/vid2cc-AI/stargazers)  
+18. **[vid2cc-AI](https://github.com/0xdilshan/vid2cc-AI)** [![GitHub_Stars](https://img.shields.io/github/stars/0xdilshan/vid2cc-AI?style=social&color=white)](https://github.com/0xdilshan/vid2cc-AI/stargazers)  
     *Video-to-subtitle CLI utility.* Extracts audio tracks via FFmpeg and produces frame-accurate SRT/CC subtitles using local Whisper models with GPU acceleration and private offline processing.
 
-19. **[LocalTranscribe](https://github.com/aporb/LocalTranscribe)** [![GitHub stars](https://img.shields.io/github/stars/aporb/LocalTranscribe?style=social&color=white)](https://github.com/aporb/LocalTranscribe/stargazers)  
+19. **[LocalTranscribe](https://github.com/aporb/LocalTranscribe)** [![GitHub_Stars](https://img.shields.io/github/stars/aporb/LocalTranscribe?style=social&color=white)](https://github.com/aporb/LocalTranscribe/stargazers)  
     *Offline speaker-labeled audio & video transcription.* Lightweight Python CLI utility that produces multi-speaker diarized transcripts locally with zero external API calls.
 
-20. **[clipify](https://github.com/Siraj-zaki/clipify)** [![GitHub stars](https://img.shields.io/github/stars/Siraj-zaki/clipify?style=social&color=white)](https://github.com/Siraj-zaki/clipify/stargazers)  
+20. **[clipify](https://github.com/Siraj-zaki/clipify)** [![GitHub_Stars](https://img.shields.io/github/stars/Siraj-zaki/clipify?style=social&color=white)](https://github.com/Siraj-zaki/clipify/stargazers)  
     *Turn YouTube podcasts into monetizable 9:16 Shorts.* Full pipeline: `yt-dlp` download → `faster-whisper` transcription → LLM highlight scoring → YuNet face detection & speaker tracking → Hormozi-style ASS captions → one-shot FFmpeg render.
 
-21. **[Surivoice](https://github.com/MozartSoares/Surivoice)** [![GitHub stars](https://img.shields.io/github/stars/MozartSoares/Surivoice?style=social&color=white)](https://github.com/MozartSoares/Surivoice/stargazers)  
+21. **[Surivoice](https://github.com/MozartSoares/Surivoice)** [![GitHub_Stars](https://img.shields.io/github/stars/MozartSoares/Surivoice?style=social&color=white)](https://github.com/MozartSoares/Surivoice/stargazers)  
     *Local-first speech transcription with speaker diarization.* Combines `faster-whisper` with `pyannote.audio` to produce structured Markdown transcripts with accurate speaker attribution.
 
 ---
@@ -180,7 +180,7 @@ Contributions are warmly encouraged! To add or update a SaaS tool or open-source
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 📝 **Add or update the entry** in `README.md` maintaining proper alphabetical or metric sorting.
-3. 📌 **Include verified details**: Product name, official link, company valuation/revenue or star badge, specific pricing, and specific free tier limits.
+3. 📌 **Include verified details**: Product name, official link, company valuation/revenue or Stars_Badge, specific pricing, and specific free tier limits.
 4. 🚀 **Submit a Pull Request** with a brief summary of what was added or updated.
 
 ---
